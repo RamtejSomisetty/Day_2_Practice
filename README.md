@@ -74,15 +74,15 @@ Find the second largest element in an array.
 
 ---
 
-## 🔄 Question 05 - Reverse a String
+## Question 05 - Reverse a String
 
-### 📝 Problem Statement  
+### Problem Statement  
 Reverse a given string in place.
 
-### 💡 Logic  
+### Logic  
 - Swap characters symmetrically from start and end until the middle is reached.
 
-### ⏱️ Time Complexity  
+### Time Complexity  
 `O(n)` where `n` is the string length.
 
 ---
