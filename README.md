@@ -46,15 +46,15 @@ Find the length of a string without using the built-in `strlen()` function.
 
 ---
 
-## 🔢 Question 03 - Count Occurrences in Array
+## Question 03 - Count Occurrences in Array
 
-### 📝 Problem Statement  
+### Problem Statement  
 Count the total number of occurrences of a given element in an array.
 
-### 💡 Logic  
+### Logic  
 - Traverse the array and increment a counter whenever the target value is found.
 
-### ⏱️ Time Complexity  
+### Time Complexity  
 `O(n)` where `n` is the array size.
 
 ---
